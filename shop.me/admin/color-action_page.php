@@ -21,5 +21,5 @@ echo "You will be redirecting in 5 seconds";
 $conn->close();
 ?>
 <?php
-header('Refresh: 5;url=http://localhost/shop.me/admin/colourchange.php');
+header('Refresh: 5;url=http://localhost/shop.me/admin');
 ?>
